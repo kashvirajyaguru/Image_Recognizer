@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(152, 233, 77) ;
+    text-decoration: rgb(248, 42, 6) underline;
+    color: black;
+    text-shadow: rgb(45, 161, 22) 6px 6px 6px;
+}
+.heading{
+    background-color: darkgreen;
+    color: white;
+    border: white 3px solid;
+}
